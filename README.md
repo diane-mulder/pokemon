@@ -1,1 +1,1 @@
-# POKEMON : création d'un jeu qui permet le combat entre deux personnages. 
+Développer un jeu avec un système de combat entre deux Pokémon
